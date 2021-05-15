@@ -1,0 +1,17 @@
+{
+  "name": "Python API",
+  "description": "Access Python API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://docs.python.org"
+    ],
+    "launch": {
+      "web_url": "https://docs.python.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

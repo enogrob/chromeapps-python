@@ -1,0 +1,17 @@
+{
+  "name": "Python Awesome",
+  "description": "Access Python Awesome",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://python.libhunt.com"
+    ],
+    "launch": {
+      "web_url": "https://python.libhunt.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

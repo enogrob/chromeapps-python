@@ -1,0 +1,17 @@
+{
+  "name": "PyCon",
+  "description": "Access PyCon",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://pycon.org"
+    ],
+    "launch": {
+      "web_url":"https://pycon.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

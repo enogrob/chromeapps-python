@@ -1,0 +1,17 @@
+{
+  "name": "PyCoders",
+  "description": "Access PyCoders",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://pycoders.com"
+    ],
+    "launch": {
+      "web_url": "https://pycoders.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

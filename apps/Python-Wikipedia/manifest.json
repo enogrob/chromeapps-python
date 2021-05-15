@@ -1,0 +1,17 @@
+{
+  "name": "Python Wikipedia",
+  "description": "Access Python Wikipedia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://en.wikipedia.org/wiki/Python_(programming_language)"
+    ],
+    "launch": {
+      "web_url":"https://en.wikipedia.org/wiki/Python_(programming_language)"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Virtualenv",
+  "description": "Access Virtualenv",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://virtualenv.pypa.io"
+    ],
+    "launch": {
+      "web_url": "https://virtualenv.pypa.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

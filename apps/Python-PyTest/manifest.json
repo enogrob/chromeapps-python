@@ -1,0 +1,17 @@
+{
+  "name": "PyTest",
+  "description": "Access PyTest",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://docs.pytest.org"
+    ],
+    "launch": {
+      "web_url":"https://docs.pytest.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

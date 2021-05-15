@@ -1,0 +1,17 @@
+{
+  "name": "PyCharm",
+  "description": "Access PyCharm",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.jetbrains.com/pycharm"
+    ],
+    "launch": {
+      "web_url": "https://www.jetbrains.com/pycharm"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

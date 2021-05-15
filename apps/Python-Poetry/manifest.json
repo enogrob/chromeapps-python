@@ -1,0 +1,17 @@
+{
+  "name": "Poetry",
+  "description": "Access Poetry",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://python-poetry.org"
+    ],
+    "launch": {
+      "web_url": "https://python-poetry.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "PyPI",
+  "description": "Access PyPI",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://bundler.io/"
+    ],
+    "launch": {
+      "web_url": "https://pypi.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
