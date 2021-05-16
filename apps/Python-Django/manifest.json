@@ -1,0 +1,17 @@
+{
+  "name": "Django",
+  "description": "Access Django",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.djangoproject.com"
+    ],
+    "launch": {
+      "web_url": "https://www.djangoproject.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
