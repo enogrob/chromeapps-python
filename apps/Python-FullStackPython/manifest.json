@@ -1,0 +1,17 @@
+{
+  "name": "FullStackPython",
+  "description": "Access FullStackPython",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.fullstackpython.com"
+    ],
+    "launch": {
+      "web_url": "https://www.fullstackpython.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
