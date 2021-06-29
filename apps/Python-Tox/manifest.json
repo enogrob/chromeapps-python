@@ -1,0 +1,17 @@
+{
+  "name": "Tox",
+  "description": "Access Tox",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://tox.readthedocs.io/en/latest"
+    ],
+    "launch": {
+      "web_url": "https://tox.readthedocs.io/en/latest"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
