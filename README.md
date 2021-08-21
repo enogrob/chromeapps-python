@@ -29,6 +29,10 @@ $ tree -L 1 apps/
 apps
 ├── Python-API
 ├── Python-Awesome
+├── Python-BPython
+├── Python-Django
+├── Python-FullStackPython
+├── Python-GitReview
 ├── Python-Homepage
 ├── Python-Poetry
 ├── Python-Pry
@@ -37,11 +41,12 @@ apps
 ├── Python-PyCon
 ├── Python-PyPI
 ├── Python-PyTest
+├── Python-PythonRepl
+├── Python-Tox
 ├── Python-Virtualenv
 └── Python-Wikipedia
 
-12 directories, 0 files
-$
+18 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:
