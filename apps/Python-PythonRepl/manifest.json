@@ -1,0 +1,17 @@
+{
+  "name": "Python Repl",
+  "description": "Python Repl",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://riju.codes/python"
+    ],
+    "launch": {
+      "web_url": "https://riju.codes/python"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
