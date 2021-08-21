@@ -45,8 +45,6 @@ apps
 ├── Python-Tox
 ├── Python-Virtualenv
 └── Python-Wikipedia
-
-18 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:
